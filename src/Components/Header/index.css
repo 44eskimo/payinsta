@@ -216,9 +216,7 @@ li {
     width: 60px;
     height: 60px;
     border-radius:250px 0px 0px 0px;
-    border: 20px solid #BE554B; 
-    top: 200px;
-    position: absolute; 
+    border: 20px solid #BE554B;
 }
 .erasor-two {
    position: absolute;
